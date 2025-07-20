@@ -1,0 +1,15 @@
+# Archivos del sistema
+.DS_Store
+
+# Carpetas y archivos internos de Glitch que no son necesarios
+**/.glitch-assets/
+**/.glitchdotcom.json
+**/.data/
+
+# Variables de entorno (nunca subas .env)
+.env
+
+# Node y otros entornos (por si acaso)
+node_modules/
+dist/
+build/
